@@ -1,0 +1,105 @@
+#EXTM3U
+#EXTINF:0,Makkah Live 
+http://210.210.155.35/qwr9ew/s/s28/01.m3u8
+#EXTINF:0,Madinah Live 
+http://210.210.155.35/qwr9ew/s/s27/01.m3u8
+#EXTINF:49,Niaga TV 
+https://h1.intechmedia.net/intech/ch10.m3u8
+#EXTINF:0,Rodja TV
+http://210.210.155.35/qwr9ew/s/s14/02.m3u8
+#EXTINF:0,Ashiil TV 
+https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
+#EXTINF:0,Surau TV 
+https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8
+#EXTINF:0,Insan TV
+https://h1.intechmedia.net/intech/ch1.m3u8
+#EXTINF:0,Ahsan TV 
+https://h1.intechmedia.net/intech/ch4.m3u8
+#EXTINF:0,Muadz TV
+https://h1.intechmedia.net/intech/ch5.m3u8
+#EXTINF:0,Al Iman TV 
+https://tv.aliman.id/aliman/live.m3u8
+#EXTINF:0,Al Iman TV 
+http://tv.aliman.id:1935/aliman/HD/playlist.m3u8
+#EXTINF:0,Wesal TV 
+https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
+#EXTINF:0,Salam TV 
+https://h1.intechmedia.net/intech/ch12.m3u8
+#EXTINF:0,MGI TV 
+https://h1.intechmedia.net/intech/ch25.m3u8
+#EXTINF:0,Izzah TV
+https://streaming.radiosalamjambi.com/izzahtv.m3u8
+#EXTINF:0,Rasyaad TV
+https://h1.intechmedia.net/intech/ch6.m3u8
+#EXTINF:0,Suara Al-Iman Surabaya
+http://radioislamindonesia.com:8008/;
+#EXTINF:0,Tarbiyah Sunnah Bandung
+https://radioonline.co.id/tarbiyah/;
+#EXTINF:0,Bass FM Salatiga
+http://live.bassfm.id:/;
+#EXTINF:0,Radio Rodja Bogor
+http://live2.radiorodja.com/;
+#EXTINF:0,Radio Muslim Jakarta
+http://live.radiomuslim.com/;
+#EXTINF:0,Hang FM Batam
+http://185.47.62.52:8000/;
+#EXTINF:0,HSI Radio
+http://whsh4u-panel.com:14007/stream;
+#EXTINF:0,Radio Muslim Yogyakarta
+http://live.radiomuslim.com/;
+#EXTINF:0,Radio Ar-Royyan Gresik
+http://radio.arroyyan.com/;
+#EXTINF:0,Radio ICBB Yogyakarta
+http://live.radiomedinah.com:80/;
+#EXTINF:0,Kita FM Cirebon
+http://live.radiosunnah.net/;
+#EXTINF:0,Mutiara Quran Semarang
+https://radioislamindonesia.com:7007/;stream.mp3/stream
+#EXTINF:0,Radio SQFM Jayapura
+http://live.syaria.net:9302/;
+#EXTINF:0,Amoeba FM Pangkal Pinang
+http://live.syaria.net:9300/;
+#EXTINF:0,RBK FM Kebumen
+http://play.xajist.com:8196/;
+#EXTINF:0,Hidayah FM Pekanbaru
+http://radio.hidayahfm.com:9988/;
+#EXTINF:0,Radio Satu Lombok
+http://live.assunnahfm.com:9010/;
+#EXTINF:0,Radio Majas Yogyakarta
+http://live.syaria.net:9998/;
+#EXTINF:0,Arrisalah FM Deli Serdang
+http://u.klikhost.net:7212/;
+#EXTINF:0,Mass FM Sragen
+http://server-s5.xajist.com:8522/stream;
+#EXTINF:0,Radio Hijrah FM Batam
+http://streaming.hijrahfm.com/;
+#EXTINF:0,Radio Syiar Tauhid Aceh
+http://radio.syiartauhid.info:7009/;
+#EXTINF:0,Radio Insani Purbalingga
+http://207.148.78.13:8000/;
+#EXTINF:0,Radio Al-Kanz Langsa
+http://sci.streamingmurah.com:8176/;
+#EXTINF:0,Radio Muadz Kendari
+https://radiomuadz.com/;
+#EXTINF:0,Radio Madinah Caruban
+https://radioislamindonesia.com:7004/;stream.mp3;
+#EXTINF:0,Salam Jambi
+http://streaming.radiosalamjambi.com:8000/;
+#EXTINF:0,Al Hikmah FM Banyuwangi
+http://158.69.119.235:8164/;
+#EXTINF:0,Radio RJFM Tasikmalaya
+http://live.syaria.net:9306/;
+#EXTINF:0,SKN Al-Bayaan Cianjur
+https://server-s5.xajist.com/sslstream/7300/;
+#EXTINF:0,Radio GSM Brebes
+http://live.syaria.net:9982/;
+#EXTINF:0,Radio Shahabat Muslim Tegal
+http://119.82.232.83:8009/;
+#EXTINF:0,Radio Gema Madinah Martapura
+http://gemamadinah.com:8022/;
+#EXTINF:0,Radio Ruziqa Balikpapan
+http://199.167.134.163:8000/ruziqa
+#EXTINF:0,Radio Suara Sunnah Paser
+http://i.klikhost.net:8142/;
+#EXTINF:0,Radio Idzaatul Khoir Ponorogo
+http://radio.idzaatulkhoir.com:8039/;
