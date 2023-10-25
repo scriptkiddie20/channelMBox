@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/ajwakids/image/upload/v1683097823/tv%20sunnah/k9xczpaohmmclgy116xm.png" group-title="TV Sunnah",Makkah Live 
-http://210.210.155.35/qwr9ew/s/s28/01.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1698237309/ei/Hbc4ZZKoAqLBjuMP6ZOo2Ag/ip/180.252.119.173/id/_mrhkhAVNjk.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/id/spc/UWF9f2ZYgFv8__SSDT-7y6Zk_YjEDRHObiUe8n6MpQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AGM4YrMwRQIgMU-MxVzr9Rj5denDvTil0g1awREkR9t-TQayBjHk4VUCIQC4RMdpEZlwKqX5h0XnW6BfRPPv5YKXrP6I1kUQO6JAYA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/ajwakids/image/upload/v1683097822/tv%20sunnah/jbwgtywquhgthi0p7rhl.png" group-title="TV Sunnah",Madinah Live 
 http://210.210.155.35/qwr9ew/s/s27/01.m3u8
