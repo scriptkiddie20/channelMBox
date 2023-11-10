@@ -1,16 +1,16 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/ajwakids/image/upload/v1683097823/tv%20sunnah/k9xczpaohmmclgy116xm.png" group-title="TV Sunnah",Makkah Live 
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1698237309/ei/Hbc4ZZKoAqLBjuMP6ZOo2Ag/ip/180.252.119.173/id/_mrhkhAVNjk.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/id/spc/UWF9f2ZYgFv8__SSDT-7y6Zk_YjEDRHObiUe8n6MpQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AGM4YrMwRQIgMU-MxVzr9Rj5denDvTil0g1awREkR9t-TQayBjHk4VUCIQC4RMdpEZlwKqX5h0XnW6BfRPPv5YKXrP6I1kUQO6JAYA%3D%3D/file/index.m3u8
+https://muslimbox.acengbusiness.workers.dev/stream/NaimatIslamic/makkahlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/ajwakids/image/upload/v1683097822/tv%20sunnah/jbwgtywquhgthi0p7rhl.png" group-title="TV Sunnah",Madinah Live 
-http://210.210.155.35/qwr9ew/s/s27/01.m3u8
+https://muslimbox.acengbusiness.workers.dev/stream/NaimatIslamic/madinahlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/ajwakids/image/upload/v1683097828/tv%20sunnah/q5rxx5qtdhhvowbezahl.png" group-title="TV Sunnah",Niaga TV 
 https://h1.intechmedia.net/intech/ch10.m3u8
 
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/ajwakids/image/upload/v1683097824/tv%20sunnah/ujbhji1ixwgeeevr4x3o.png" group-title="TV Sunnah",Rodja TV
-http://210.210.155.35/qwr9ew/s/s14/02.m3u8
+https://rodjatv.com/rodjatv/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/ajwakids/image/upload/v1683097834/tv%20sunnah/pejani5yoer06ys0e1hv.png" group-title="TV Sunnah",Ashiil TV 
 https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
@@ -25,7 +25,7 @@ https://h1.intechmedia.net/intech/ch1.m3u8
 https://h1.intechmedia.net/intech/ch4.m3u8
 
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/ajwakids/image/upload/v1683097825/tv%20sunnah/m7q0th37bg7hnifps1k5.png" group-title="TV Sunnah",Muadz TV
-https://h1.intechmedia.net/intech/ch5.m3u8
+http://wowza60.indostreamserver.com:1935/muadztv/live/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/ajwakids/image/upload/v1683097834/tv%20sunnah/aanh8ls3pqjfgchfj3f9.png" group-title="TV Sunnah",Al Iman TV 
 https://tv.aliman.id/aliman/live.m3u8
@@ -49,19 +49,19 @@ https://streaming.radiosalamjambi.com/izzahtv.m3u8
 https://h1.intechmedia.net/intech/ch6.m3u8
 
 #EXTINF:-1 tvg-id="Suara Al-Iman Surabaya" tvg-name="Suara Al-Iman Surabaya" tvg-logo="https://update-muslimbox.b-cdn.net/channel/logo/radiosuaraaliman.jpg" group-title="Radio",Suara Al-Iman Surabaya
-http://radioislamindonesia.com:8008/;
+https://radioonline.co.id/suara-al-iman/;
 
 #EXTINF:-1 tvg-id="Tarbiyah Sunnah Bandung" tvg-name="Tarbiyah Sunnah Bandung" tvg-logo="https://update-muslimbox.b-cdn.net/channel/logo/radiotarbiyahsunnah.jpg" group-title="Radio",Tarbiyah Sunnah Bandung
 https://radioonline.co.id/tarbiyah/;
 
 #EXTINF:-1 tvg-id="Bass FM Salatiga" tvg-name="Bass FM Salatiga" tvg-logo="https://update-muslimbox.b-cdn.net/channel/logo/radiobassfm.jpg" group-title="Radio",Bass FM Salatiga
-http://live.bassfm.id:/;
+https://radioonline.co.id/bass-salatiga/;
 
 #EXTINF:-1 tvg-id="Radio Rodja Bogor" tvg-name="Radio Rodja Bogor" tvg-logo="https://update-muslimbox.b-cdn.net/channel/logo/radiorodja.jpg" group-title="Radio",Radio Rodja Bogor
-http://live2.radiorodja.com/;
+https://radioonline.co.id/rodja/;
 
 #EXTINF:-1 tvg-id="Radio Muslim Jakarta" tvg-name="Radio Muslim Jakarta" tvg-logo="https://update-muslimbox.b-cdn.net/channel/logo/radiomuslimjakarta.jpg" group-title="Radio",Radio Muslim Jakarta
-http://live.radiomuslim.com/;
+https://radioonline.co.id/muslim/;
 
 #EXTINF:-1 tvg-id="Hang FM Batam" tvg-name="Hang FM Batam" tvg-logo="https://update-muslimbox.b-cdn.net/channel/logo/radiohang.jpg" group-title="Radio",Hang FM Batam
 http://185.47.62.52:8000/;
@@ -82,7 +82,7 @@ http://live.radiomedinah.com:80/;
 http://live.radiosunnah.net/;
 
 #EXTINF:-1 tvg-id="Mutiara Quran Semarang" tvg-name="Mutiara Quran Semarang" tvg-logo="https://update-muslimbox.b-cdn.net/channel/logo/radiomutiaraquran.jpg" group-title="Radio",Mutiara Quran Semarang
-https://radioislamindonesia.com:7007/;stream.mp3/stream
+https://radioonline.co.id/mutiara-qur-an/;
 
 #EXTINF:-1 tvg-id="Radio SQFM Jayapura" tvg-name="Radio SQFM Jayapura" tvg-logo="https://update-muslimbox.b-cdn.net/channel/logo/radiosuaraqolbu.jpg" group-title="Radio",Radio SQFM Jayapura
 http://live.syaria.net:9302/;
