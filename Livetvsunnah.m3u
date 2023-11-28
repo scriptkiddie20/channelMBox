@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/lbDrYsi1wHq2V6VhYFb46LZDXH5mZh57IKNfF9RPxGDhm_VvijwGw3DBp1KuzRC-gRCJqvKfVVg=s176-c-k-c0x00ffffff-no-rj" group-title="TV Sunnah",FatwaTv
+https://muslimbox.acengbusiness.workers.dev/stream/FatwaTVOfficial/fatwatv.m3u8
+
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/ajwakids/image/upload/v1683097823/tv%20sunnah/k9xczpaohmmclgy116xm.png" group-title="TV Sunnah",Makkah Live 
 https://muslimbox.acengbusiness.workers.dev/stream/NaimatIslamic/makkahlive.m3u8
 
